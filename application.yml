@@ -1,0 +1,8 @@
+debug: true
+server:
+    port: 8192
+spring:
+    profiles:
+        active: native
+    
+   

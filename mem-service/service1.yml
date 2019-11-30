@@ -1,0 +1,3 @@
+debug: true
+service:
+    greeting: Hello from service 1
